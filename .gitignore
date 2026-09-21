@@ -1,0 +1,12 @@
+.anchor
+target
+node_modules
+dist
+build
+test-ledger
+*.log
+.DS_Store
+**/*.rs.bk
+*.keypair.json
+.keys/
+id.json
